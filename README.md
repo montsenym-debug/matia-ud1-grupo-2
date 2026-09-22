@@ -7,8 +7,8 @@ DATOS:
 
 
 INTEGRANTES:
-Rocio Rayo Cortes
-Paula Paniagua Arias
+Rocio Rayo Cortes,
+Paula Paniagua Arias,
 Mar Montseny Roig
 
 REPARTO:
